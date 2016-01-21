@@ -40,8 +40,9 @@ Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 * Learn Laravel 5 in Spanish [duilio.me](http://duilio.me/laravel-5/)
 
-## Laravel 5.1
+### Laravel 5.1
 *Released on 6th Jun, 2015*
+* New Features in Laravel 5.1 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5-1)
 
 ## Lumen
 *Released on 14th April, 2015*
