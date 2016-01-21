@@ -9,6 +9,7 @@ Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 
 - [Essentials](#essentials)
 - [Laravel 5](#laravel-5)
+- [Laravel 5.1](#laravel-5-1)
 - [Lumen](#lumen)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
@@ -38,6 +39,9 @@ Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 * Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 * Learn Laravel 5 in Spanish [duilio.me](http://duilio.me/laravel-5/)
+
+## Laravel 5.1
+*Released on 6th Jun, 2015*
 
 ## Lumen
 *Released on 14th April, 2015*
