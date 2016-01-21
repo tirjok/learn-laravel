@@ -8,7 +8,7 @@ Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 ## Table of Contents
 
 - [Essentials](#essentials)
-- [Laravel 5](#laravel-5)
+- [Laravel 5.*](#laravel-5.*)
 - [Lumen](#lumen)
 - [Code Snippets](#code-snippets)
 - [Packages](#packages)
@@ -30,10 +30,11 @@ Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](http://laravel-news.com/)
 
-## Laravel 5
-*Released on 4th February, 2015*
+## Laravel 5.*
+*Released on 6th Jun, 2015*
 * Laravel 5 Fundamentals - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
 * New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/tags/laravel+5)
+* New Features in Laravel 5.1 - [Laracasts] (https://laracasts.com/series/whats-new-in-laravel-5-1)
 * Release Notes - [Laravel.com](http://laravel.com/docs/master/releases) and [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
 * Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
 * Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
