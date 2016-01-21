@@ -3,7 +3,7 @@ learn-laravel
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 
 ## Table of Contents
 
