@@ -42,7 +42,8 @@ Inspired by [manshu/awesome-laravel](https://github.com/manshu/awesome-laravel)
 
 ## Laravel 5.1
 *Released on 6th Jun, 2015*
-* New Features in Laravel 5.1 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5-1)
+* New Features in Laravel 5.1 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5-1) and [Matt Stauffer](https://laracasts.com/series/whats-new-in-laravel-5-1)
+* Release Notes - [Laravel.com](https://laravel.com/docs/5.1/releases)
 
 ## Lumen
 *Released on 14th April, 2015*
